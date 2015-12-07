@@ -4,7 +4,7 @@ class Car {
   float engine_power;
   float drag;
   float max_speed;
-  int weight;
+  float weight;
   String drivetrain;
   int power_to_front;
   int gears;
